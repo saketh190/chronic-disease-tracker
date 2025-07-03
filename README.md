@@ -54,7 +54,4 @@ This project builds an early-warning system to detect **chronic disease risks** 
 
 ---
 
-## 📦 Requirements
 
-```bash
-pip install pandas scikit-learn
